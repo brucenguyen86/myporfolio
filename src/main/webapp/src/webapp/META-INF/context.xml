@@ -1,0 +1,10 @@
+<Context>
+    <WatchedResource> WEB-INF/web.xml </WatchedResource>
+    <Resource name="jdbc/brucenguyen" auth="Container" type="javax.sql.DataSource"
+              maxActive="100"
+              maxIdle="30"
+              username="brucenguyen-server-admin"
+              password="RJUGUW40DOJ6323D$" driverClassName="com.mysql.jdbc.Driver"
+              factory="org.apache.tomcat.dbcp.dbcp.BasicDataSourceFactory"
+              url="jdbc:sqlserver://brucenguyen-server.database.windows.net:1433?useSSL=false"/>
+</Context>

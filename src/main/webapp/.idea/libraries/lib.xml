@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jackson-core-2.13.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-boringssl-static-2.0.56.Final-linux-aarch_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/oauth2-oidc-sdk-9.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-classes-2.0.56.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-codec-dns-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-resolver-dns-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/nimbus-jose-jwt-9.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-transport-classes-epoll-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/content-type-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/reactor-netty-core-1.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-buffer-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/accessors-smart-2.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-common-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/azure-core-http-netty-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jtds-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jackson-databind-2.13.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-transport-native-kqueue-4.1.89.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/azure-identity-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/lang-tag-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-boringssl-static-2.0.56.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/reactor-core-3.4.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jackson-annotations-2.13.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-codec-http-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-codec-socks-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/asm-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-transport-native-epoll-4.1.89.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-resolver-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-codec-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/reactor-netty-http-1.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/msal4j-1.13.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-boringssl-static-2.0.56.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/azure-core-1.37.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-resolver-dns-native-macos-4.1.89.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/reactive-streams-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-codec-http2-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-transport-native-unix-common-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/json-smart-2.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-boringssl-static-2.0.56.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-transport-classes-kqueue-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jna-platform-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jackson-datatype-jsr310-2.13.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-boringssl-static-2.0.56.Final-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jcip-annotations-1.0-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-transport-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-handler-proxy-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-tcnative-boringssl-static-2.0.56.Final-osx-aarch_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-resolver-dns-classes-macos-4.1.89.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/mssql-jdbc-10.2.0.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/msal4j-persistence-extension-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/netty-handler-4.1.89.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
